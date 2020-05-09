@@ -1,3 +1,3 @@
 # module4-solution
 
-Module 3 Coding Assignment of HTML, CSS, and Javascript for Web Developers
+Module 4 Coding Assignment of HTML, CSS, and Javascript for Web Developers
